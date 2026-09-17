@@ -1,5 +1,7 @@
 # Hi, I'm Ravi 👋
 
+*I build things for the agentic age.*
+
 I use **HTML**, **CSS**, **TypeScript**, **Svelte** & **Rust**.
 
 <p>
