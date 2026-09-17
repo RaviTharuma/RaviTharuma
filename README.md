@@ -2,6 +2,8 @@
 
 *I build things for the agentic age.*
 
+🤖 `--dangerously-skip-permissions`
+
 I use **HTML**, **CSS**, **TypeScript**, **Svelte** & **Rust**.
 
 <p>
