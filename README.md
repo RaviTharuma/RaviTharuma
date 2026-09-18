@@ -4,7 +4,7 @@
 
 🤖 `--dangerously-skip-permissions`
 
-I use **HTML**, **CSS**, **TypeScript**, **Svelte** & **Rust**.
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
