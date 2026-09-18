@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-*I build things for the agentic age.*
+*Building things for the agentic age.*
 
 🤖 `--dangerously-skip-permissions`
 
