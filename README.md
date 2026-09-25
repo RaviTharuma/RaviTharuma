@@ -29,8 +29,8 @@
 ### 📊 Stats
 
 <p>
-  <img align="middle" src="https://github-stats-extended.vercel.app/api?username=RaviTharuma&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&hide=contribs&show=contributions&contribs_include_own_repos=true" alt="GitHub stats" />
-  <img align="middle" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaviTharuma&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RaviTharuma&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&hide=contribs&show=contributions&contribs_include_own_repos=true" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaviTharuma&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top languages" />
 </p>
 
 ### 📬 Contact
