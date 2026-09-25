@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
+  <img src="https://img.shields.io/badge/herdr-0E7490?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMyAzaDh2OEgzem0xMCAwaDh2NWgtOHpNMTMgMTBoOHYxMWgtOHpNMyAxM2g4djhIM3oiLz48L3N2Zz4=&logoColor=white" alt="herdr" />
+  <img src="https://img.shields.io/badge/cmux-4F46E5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMiAyaDZ2NUgyem0wIDdoNnY1SDJ6bTAgN2g2djVIMnpNMTAgMmgxMnYyMEgxMHoiLz48L3N2Zz4=&logoColor=white" alt="cmux" />
+  <img src="https://img.shields.io/badge/tssh-059669?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMiA0aDIwdjE2SDJ6bTMuMiAzLjIgNC4zIDQuMy00LjMgNC4zIDEuNiAxLjZMMTEuMSAxMiA2LjggNy42em02LjMgOC4zaDd2MmgtN3oiLz48L3N2Zz4=&logoColor=white" alt="tssh" />
 </p>
 
 ### 📊 Stats
