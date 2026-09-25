@@ -9,7 +9,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMS41IDBoMjFsLTEuOTEgMjEuNTYzTDExLjk3NyAyNGwtOC41NjUtMi40MzhMMS41IDB6bTE3LjA5IDQuNDEzTDUuNDEgNC40MWwuMjEzIDIuNjIyIDEwLjEyNS4wMDItLjI1NSAyLjcxNmgtNi42NGwuMjQgMi41NzNoNi4xODJsLS4zNjYgMy41MjMtMi45MS44MDQtMi45NTYtLjgxLS4xODgtMi4xMWgtMi42MWwuMjkgMy44NTVMMTIgMTkuMjg4bDUuMzczLTEuNTNMMTguNTkgNC40MTR6Ii8+PC9zdmc+" alt="CSS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
