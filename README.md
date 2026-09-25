@@ -1,8 +1,9 @@
 # Hi, I'm Ravi 👋
+🤖 `--dangerously-skip-permissions`
 
 *Building things for the agentic age.*
 
-🤖 `--dangerously-skip-permissions`
+
 
 ### Stack
 
