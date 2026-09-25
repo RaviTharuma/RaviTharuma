@@ -1,11 +1,11 @@
-# Hi, I'm Ravi 👋
+# 👋 Hi, I'm Ravi
 
 *Building things for the agentic age.*
 
 🤖 `--dangerously-skip-permissions`
 
 
-### Stack
+### 🧱 Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-### Tools
+### 🛠️ Tools
 
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -26,14 +26,14 @@
   <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
 </p>
 
-### Stats
+### 📊 Stats
 
 <p>
   <img src="https://github-stats-extended.vercel.app/api?username=RaviTharuma&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaviTharuma&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-### Contact
+### 📬 Contact
 
 <p>
   <a href="https://ravitharuma.io/contact"><img src="https://img.shields.io/badge/Website-ravitharuma.io-111111?style=for-the-badge" alt="Website" /></a>
