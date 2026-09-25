@@ -36,7 +36,7 @@
 ### Contact
 
 <p>
+  <a href="https://ravitharuma.io/contact"><img src="https://img.shields.io/badge/Website-ravitharuma.io-111111?style=for-the-badge" alt="Website" /></a>
   <a href="https://x.com/RaviTharuma"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/ravitharuma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ravitharuma.io/contact"><img src="https://img.shields.io/badge/Contact-ravitharuma.io-111111?style=for-the-badge" alt="Contact" /></a>
 </p>
