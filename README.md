@@ -29,7 +29,7 @@
 ### 📊 Stats
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api?username=RaviTharuma&show_icons=true&theme=transparent&hide_border=true&commits_year=2026&show=contributions,all_time_contribs&contribs_include_own_repos=true" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RaviTharuma&show_icons=true&theme=transparent&hide_border=true&commits_year=2026&hide=contribs&show=contributions&contribs_include_own_repos=true" alt="GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaviTharuma&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
