@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <a href="https://github.com/BoundaryML/baml"><img src="https://img.shields.io/badge/BAML-6D2EA3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTEyIDNjLTIuNSAwLTQgMS41LTQgMy41IDAgMSAuMyAxLjguOCAyLjUtLjQuOC0uOCAxLjYtLjggMi41IDAgMi41IDIgNC41IDQgNC41czQtMiA0LTQuNWMwLS45LS40LTEuNy0uOC0yLjUuNS0uNy44LTEuNS44LTIuNSAwLTItMS41LTMuNS00LTMuNXptLTEuNSA0YS42LjYgMCAxIDEgMCAxLjIuNi42IDAgMCAxIDAtMS4yem0zIDBhLjYuNiAwIDEgMSAwIDEuMi42LjYgMCAwIDEgMC0xLjJ6Ii8+PC9zdmc+&logoColor=white" alt="BAML" /></a>
+  <a href="https://github.com/BoundaryML/baml"><img src="https://img.shields.io/badge/BAML-6D2EA3?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTggNGg4djJoLTh6bS0xIDJoMnYySDd6bTggMGgydjJoLTJ6TTYgNmgydjJINnptMTAgMGgydjJoLTJ6TTUgOGgydjJINXptMTIgMGgydjJoLTJ6TTQgMTBoMnYySDR6bTE0IDBoMnYyaC0yek02IDEyaDJ2Mkg2em0xMCAwaDJ2MmgtMnpNNyAxNGgydjJIN3ptOCAwaDJ2MmgtMnpNOCAxNmg4djJIOHoiLz48L3N2Zz4K&logoColor=white" alt="BAML" /></a>
 </p>
 
 ### 🛠️ Tools
