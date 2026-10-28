@@ -13,6 +13,7 @@ Append an entry under **[Unreleased]** for every meaningful change. On release, 
 - Naming rules in `AGENTS.md` for agents (2026-10-12).
 - Root project docs: `AGENTS.md`, `CHANGELOG.md`, `ARCHITECTURE.md`, `STACK.md` (2026-10-06).
 - Go badge in the stack row, directly after Rust (2026-10-07).
+- BAML badge in the stack row, directly after Go (2026-10-28).
 
 ## History before this changelog
 

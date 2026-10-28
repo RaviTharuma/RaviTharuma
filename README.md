@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/BAML-6D2EA3?style=for-the-badge" alt="BAML" />
+  <a href="https://github.com/BoundaryML/baml"><img src="https://img.shields.io/badge/BAML-6D2EA3?style=for-the-badge&logoColor=white" alt="BAML" /></a>
 </p>
 
 ### 🛠️ Tools
